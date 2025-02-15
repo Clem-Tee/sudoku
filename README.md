@@ -30,7 +30,7 @@ Welcome to the **Sudoku Solver** project! This Go-based program efficiently solv
 ## 📂 Project Structure
 
 ```
-Sudoku_Solver/
+sudoku/
 │── main.go       # The core Sudoku solver program
 │── README.md     # Documentation (You're reading it now!)
 ```
